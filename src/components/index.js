@@ -1,1 +1,1 @@
-export * as Footer from './Footer/Footer'
+export * as Footer from './footer/Footer'
