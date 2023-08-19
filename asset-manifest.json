@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food-rating-app/static/css/main.0ca5adcc.css",
+    "main.js": "/food-rating-app/static/js/main.0414b9e8.js",
+    "index.html": "/food-rating-app/index.html",
+    "main.0ca5adcc.css.map": "/food-rating-app/static/css/main.0ca5adcc.css.map",
+    "main.0414b9e8.js.map": "/food-rating-app/static/js/main.0414b9e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ca5adcc.css",
+    "static/js/main.0414b9e8.js"
+  ]
+}
